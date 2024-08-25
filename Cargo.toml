@@ -1,0 +1,19 @@
+[workspace.lints.rust]
+unsafe_code = "forbid"
+# unused = "allow" # For experimental dev
+
+[workspace]
+resolver = "2"
+members = [
+    # -- Application Libraries
+    "libraries/automation",
+    "libraries/configuration",
+    "libraries/utility",
+    "libraries/web",
+
+    # -- Application Services
+    "services/web_server",
+
+    # -- Tools
+    #"crates/tools/"
+]
