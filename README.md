@@ -1,30 +1,4 @@
-# rust-web-clean-layout
-
-Default clean layout for a large web application project in the rust language
-
-## build - project build tools
-
-## database - project database
-
-## examples - developer examples
-
-## libraries - project libraries
-
-## scripts - project scripts
-
-## test - project testing
-
-## .dockerignore
-
-## .github
-
-## .gitignore
-
-## Cargo.toml
-
-## docker-compose.yml
-
-## README.md
+# Rust Web Clean Layout
 
 Rust is a modern programming language designed for performance and safety, particularly safe concurrency. Here are some key features:
 
@@ -42,3 +16,31 @@ Source: Conversation with Copilot, 8/24/2024
 (2) Rust (programming language) - Wikipedia. <https://en.wikipedia.org/wiki/Rust_%28programming_language%29>.
 (3) Introduction to Rust Programming Language - GeeksforGeeks. <https://www.geeksforgeeks.org/introduction-to-rust-programming-language/>.
 (4) What is Rust Programming Language? A Guide to This Evolving Language. <https://litslink.com/blog/what-is-rust-programming-language>.
+
+---
+
+## One possible layout for a large web application project
+
+### > build - project build tools
+
+### > database - project database
+
+### > examples - developer examples
+
+### > libraries - project libraries
+
+### > scripts - project scripts
+
+### > test - project testing
+
+### .dockerignore
+
+### .github
+
+### .gitignore
+
+### Cargo.toml
+
+### docker-compose.yml
+
+### README.md
